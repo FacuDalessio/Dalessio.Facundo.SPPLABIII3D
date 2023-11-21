@@ -1,0 +1,61 @@
+{
+  "monstruos": [
+    {
+      "id": 1,
+      "nombre": "Vampiro",
+      "tipo": "vampiro",
+      "alias": "Conde Drácula",
+      "defensa": "pocion",
+      "miedo": 80,
+      "armas": [
+        "cuchillo",
+        "pistola"
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "Zombi",
+      "tipo": "zombie",
+      "alias": "Caminante",
+      "defensa": "estaca",
+      "miedo": 50,
+      "armas": [
+        "hacha"
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "Hombre lobo",
+      "tipo": "esqueleto",
+      "alias": "Garra plateada",
+      "defensa": "plata",
+      "miedo": 90,
+      "armas": [
+        "cuchillo",
+        "poderes"
+      ]
+    },
+    {
+      "id": 4,
+      "nombre": "Fantasma",
+      "tipo": "fantasma",
+      "alias": "Susurros",
+      "defensa": "pocion",
+      "miedo": 60,
+      "armas": [
+        "cuchillo"
+      ]
+    },
+    {
+      "id": 5,
+      "nombre": "Espectro",
+      "tipo": "bruja",
+      "alias": "Sombra aullante",
+      "defensa": "crucifijo",
+      "miedo": 85,
+      "armas": [
+        "poderes"
+      ]
+    }
+  ]
+}
